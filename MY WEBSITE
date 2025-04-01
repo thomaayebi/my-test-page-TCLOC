@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Test Page</title>
+</head>
+<body>
+
+    <h1>AN IMAGE CARICATURING HOW AI IS TAKING OVER LOCALIZATION SPECIALIST'S JOBS</h1>
+
+    <img src="AI WRITING TOOLS.png" alt="Thanks for your help,I'm here to take over." />
+
+    <a href="https://mastertcloc.unistra.fr">MASTERS PROGRAMME</a>
+
+    <h3>STOP! NO NEED TO PANIC. SEE AI AS A LEVERAGE INSTEAD OF "A ROBBER"</h3>
+
+    <p>
+        The rise of AI in localization and translation has sparked concerns about job security, 
+        but rather than seeing it as a threat, we should embrace it as a powerful tool.<br>
+        AI can handle repetitive tasks, speed up workflows, and assist with large-scale projects, 
+        allowing professionals to focus on creativity and accuracy.
+    </p>
+
+    <p>
+        Instead of replacing human expertise, AI enhances it.<br> 
+        Machine translation tools, for example, provide a solid foundation, but human linguists 
+        ensure cultural adaptation, tone, and context are accurately preserved.<br>
+        By leveraging AI, localization professionals can increase efficiency while maintaining 
+        high-quality results.
+    </p>
+
+    <p>
+        The key is to adapt and grow with technology. Learning how to integrate AI into workflows 
+        will not only future-proof careers but also open up new opportunities in the evolving 
+        landscape of localization.<br> 
+        So, rather than fearing AI, let’s use it to our advantage!
+    </p>
+
+</body>
+</html>
