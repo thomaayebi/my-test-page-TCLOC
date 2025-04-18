@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Management - Embracing AI in Localization</title>
+</head>
+<body>
+
+    <h1>THIS BUSINESS IS UNDER NEW MANAGEMENT</h1>
+
+    <img src="images/ai.png" width="1000" alt="AI-powered business transition image">
+
+    <p>
+        <a href="https://mastertcloc.unistra.fr" target="_blank">CLICK ON THE LINK TO THE MASTERS PROGRAMME</a>
+    </p>
+
+    <h3>STOP! NO NEED TO PANIC. SEE AI AS A LEVERAGE INSTEAD OF "A ROBBER"</h3>
+
+    <p>
+        The rise of AI in localization and translation has sparked concerns about job security, 
+        but rather than seeing it as a threat, we should embrace it as a powerful tool.
+    </p>
+
+    <p>
+        AI can handle repetitive tasks, speed up workflows, and assist with large-scale projects, 
+        allowing professionals to focus on creativity and accuracy.
+    </p>
+
+    <p>
+        Instead of replacing human expertise, AI enhances it. Machine translation tools, for example, 
+        provide a solid foundation, but human linguists ensure cultural adaptation, tone, and context 
+        are accurately preserved.
+    </p>
+
+    <p>
+        By leveraging AI, localization professionals can increase efficiency while maintaining 
+        high-quality results.
+    </p>
+
+    <p>
+        The key is to adapt and grow with technology. Learning how to integrate AI into workflows 
+        will not only future-proof careers but also open up new opportunities in the evolving 
+        landscape of localization.
+    </p>
+
+    <p>
+        So, rather than fearing AI, let’s use it to our advantage!
+    </p>
+
+</body>
+</html>
+
+
+
+
+<form action="/my-handling-form-page" method="post">
+    <p>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="user_name" />
+    </p>
+    <p>
+      <label for="mail">Email:</label>
+      <input type="email" id="mail" name="user_email" />
+    </p>
+    <p>
+      <label for="msg">Message:</label>
+      <textarea id="msg" name="user_message"></textarea>
+    </p>
+  </form>
+
+  <p class="button">
+    <button type="submit">Send your message</button>
+  </p>
+
+
+  <style>
+    body {
+  /* Center the form on the page */
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  /* Form outline */
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
+
+p + p {
+  margin-top: 1em;
+}
+
+label {
+  /* Uniform size & alignment */
+  display: inline-block;
+  min-width: 90px;
+  text-align: right;
+}
+
+input,
+textarea {
+  /* To make sure that all text fields have the same font settings
+     By default, text areas have a monospace font */
+  font: 1em sans-serif;
+  /* Uniform text field size */
+  width: 300px;
+  box-sizing: border-box;
+  /* Match form field borders */
+  border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+  /* Set the outline width and style */
+  outline-style: solid;
+  /* To give a little highlight on active elements */
+  outline-color: #000;
+}
+
+textarea {
+  /* Align multiline text fields with their labels */
+  vertical-align: top;
+  /* Provide space to type some text */
+  height: 5em;
+}
+
+.button {
+  /* Align buttons with the text fields */
+  padding-left: 90px; /* same size as the label elements */
+}
+
+button {
+  /* This extra margin represent roughly the same space as the space
+     between the labels and their text fields */
+  margin-left: 0.5em;
+}
+  </style>
